@@ -16,7 +16,7 @@ body{
     height: 100vh;
     text-align: center;
     background-color: rgb(31, 59, 100);
-    background-image: url(/Images/background-image.png);
+    background-image: url(background-image.png);
     background-size: cover;
 }
 

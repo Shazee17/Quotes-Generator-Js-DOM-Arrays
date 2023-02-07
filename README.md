@@ -10,6 +10,6 @@ Random Quote Generator using HTML, CSS and JavaScript with a simple logic
 
 ### Screenshot
 
-![](./Images/screenshot.png)
+![](./CSS%20and%20Images/screenshot.png)
 
 
